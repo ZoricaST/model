@@ -1,0 +1,11 @@
+{
+  "name": "model",
+  "version": "1.0.0",
+  "description": "Model za portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Zorica Jelic",
+  "license": "ISC"
+}
